@@ -28,7 +28,7 @@ This repository contains the data and scripts produced for the paper:
 This repository provides orthology data and supporting files generated for the comparison between *Drosophila melanogaster* and *Tribolium castaneum*.  
 The datasets and scripts facilitate reproduction of the results and independent analysis of orthologous relationships.
 
-<img width="1389" height="1134" alt="hmx" src="https://github.com/user-attachments/assets/1f498b47-a089-4c8c-bc47-4f1da2df51c9" />
+<img width="2389" height="2134" alt="hmx" src="https://github.com/user-attachments/assets/1f498b47-a089-4c8c-bc47-4f1da2df51c9" />
 
 
 ---
