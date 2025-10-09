@@ -62,7 +62,7 @@ A compressed archive containing phylogenetic trees and all supporting files requ
 | `1.Scripts_for_building_trees.py` | Python script used to generate phylogenetic trees. |
 | `2.Methods.txt` | Detailed explanation of software, parameters, and methodological decisions. |
 | `3.Manually_checked_genes.xlsx` | Table summarizing manually analyzed genes, including comparison between OrthoFinder and eggNOG results. |
-| `<Gene>.pdf` | Individual phylogenetic trees in PDF format, each named after the corresponding *Drosophila* gene. |
+| `4.Trees` | A folder containing the phylogenetic trees in PDF format, each named after the corresponding *Drosophila* gene. |
 
 ---
 
